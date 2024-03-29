@@ -29,4 +29,4 @@ Wireless LAN adapter Wi-Fi:
    Default Gateway . . . . . . . . . : XXX.XXX.X.X
 ```
 * Although the design of the web app is in `index.html`, if you go there, the game will not work. Instead, you have to go to the website of the following form (using any web browser, works on both PC and smartphones in the same lcoal network): `XXX.XXX.X.X:5000`, with `XXX.XXX.X.X` being your IP address.
-** You can now play the app with the number being able to update in real time.
+* You can now play the app with the number being able to update in real time.
